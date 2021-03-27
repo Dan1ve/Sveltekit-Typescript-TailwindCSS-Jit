@@ -8,10 +8,9 @@ This template project is based on the official (**beta**) SvelteKit template (se
 
 Adding Tailwind-classes, hot-reloading and `@apply` should work as expected (tested under Windows).
 
-```
-NOTE:
+## Note
+
 Please note that SvelteKit is still in public beta, as explained in [this blogpost by Rich Harris](https://svelte.dev/blog/sveltekit-beta).
-```
 
 ## Developing
 
