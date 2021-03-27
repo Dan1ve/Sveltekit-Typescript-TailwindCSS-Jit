@@ -1,6 +1,6 @@
 # Sveltekit-Typescript-TailwindCSS-Jit
 
-This template project is based on the official (**beta**) SvelteKit template (see [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte)), but configured
+This template project is based on the official (**beta**) SvelteKit template (see [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte)), but, on top, includes
 
 - TypeScript
 - Less CSS
